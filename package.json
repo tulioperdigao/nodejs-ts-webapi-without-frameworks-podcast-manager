@@ -1,0 +1,25 @@
+{
+  "name": "projeto-app-podcast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start:dev": "tsx src/server.ts",
+    "start:watch": "tsx watch src/server.ts",
+    "dist": "tsup src",
+    "start:dist": "npm run dist && node/server.js"
+  },
+  "keywords": [],
+  "author": "Tulio Castro",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "dotenv": "^16.5.0",
+    "tsup": "^8.4.0",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
+  }
+}

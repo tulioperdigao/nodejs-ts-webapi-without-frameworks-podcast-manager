@@ -1,0 +1,20 @@
+[
+    {
+        "podcastName": "flow",
+        "episode": "CBUM - Flow #319",
+        "videoId": "pQSuQmUfS30",
+        "categories": ["saúde", "bodybuilder", "esporte"]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "SERGIO SACANI E BRENO MASI - Flow #434",
+        "videoId": "9i3bTzbYHAg",
+        "categories": ["ciência", "humor"]
+    },
+    {
+        "podcastName": "podpah",
+        "episode": "BRUNO FORMIGA - Podpah #904",
+        "videoId": "mtqlY_Fu2-o",
+        "categories": ["esporte", "humor", "futebol"]
+    }
+]
